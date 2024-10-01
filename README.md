@@ -38,7 +38,7 @@ Performed hyperparameter tuning using GridSearchCV to optimize n_estimators and 
 ## Results
 Best Model: AdaBoost was the best performing model with AUC scores of:
 - H1N1 Vaccine: 0.85 AUC
-  - Seasonal Flu Vaccine: 0.83 AUC
+- Seasonal Flu Vaccine: 0.83 AUC
 Key Insights:
 - The most important features for predicting H1N1 vaccination include the level of concern about H1N1 and opinions about the vaccine’s effectiveness.
 - For seasonal flu, health worker status and opinions about seasonal flu vaccines were the most important predictors.
